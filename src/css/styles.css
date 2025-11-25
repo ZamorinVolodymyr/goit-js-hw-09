@@ -12,5 +12,9 @@
 
 /* Sections style */
 @import url('./header.css');
-@import url('./badges.css');
 @import url('./back-link.css');
+@import url('./gallery.css');
+@import url('./form.css');
+
+/* SimpleLightbox style */
+@import 'simplelightbox/dist/simple-lightbox.min.css';
